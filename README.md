@@ -12,6 +12,6 @@ git branch branch_name # Create a branch
 git checkout branch_name # For going to your branch
 ```
 
-Please refer to [`CONTRIBUTING`](https://github.com/codetrybe/python_assignment/blob/main/CONTRIBUTING) for adding your assignments
+Please refer to [`CONTRIBUTING`](https://github.com/codetrybe/python_assignment/blob/main/CONTRIBUTING.md) for adding your assignments
 
 HAPPY CODING!
